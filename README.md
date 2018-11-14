@@ -5,7 +5,7 @@ The week prior to this lab activity, we discussed PhenoCams and the PhenoCam net
 
 As a class, we read and discussed Wu et al. (2016) in Science (DOI: 10.1126/science.aad5068) and Richardson et al. (2018) in Nature (https://doi.org/10.1038/s41586-018-0399-1) and its accompanying blog write up (https://natureecoevocommunity.nature.com/users/82876-andrew-richardson/posts/37522-phenocams-have-an-eye-on-the-seasons-at-the-spruce-ecosystem-warming-experiment)  
 
-A description of the lab, different elements to the lab, and prompts to guide student responses for hand-in. 
+Included in this activity are: a pdf file of description of the lab, different elements to the lab, and prompts to guide student responses for hand-in; a csv file of Ameriflux data, and R script for lab activities for plotting with ggplot.
 
 The lab is broken into 3 parts - Part I is an exploration of 'Phenocam Explorer' http://explore.phenocam.us/, starting with Harvard Forest. Student examine start of season and end of season dates, as well as overlay MODIS EVI and NDVI data (recently also discussed in class). 
 
