@@ -1,5 +1,5 @@
 # BIOL368
-Lab materials for BIOL_368 Plant Ecophysiology at Macalester College (Fall 2018)
+Lab materials for an activity based around PhenoCams for BIOL_368 Plant Ecophysiology at Macalester College (Fall 2018)
 
 The week prior to this lab activity, we discussed PhenoCams and the PhenoCam network (https://phenocam.sr.unh.edu/webcam/) and how data from them can be used as a proxy for tracking plant leaf development. 
 
